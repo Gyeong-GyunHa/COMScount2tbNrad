@@ -26,7 +26,7 @@
 !*And each column of latlon represents latitude and longitude of cell,      *
 !*                                     relevant to same row of latticepoint.*
 !*                                                                          *
-!*Author : Gyeong-Gyeun Ha                                                  *
+!*Author : Gyeong-Gyun Ha                                                  *
 !*Affiliation : National Meteorological Satellite Center (of KMA)           *
 !*Date: Nov.2016                                                            *
 !****************************************************************************
